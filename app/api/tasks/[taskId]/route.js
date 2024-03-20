@@ -1,4 +1,4 @@
-import { getResponseMessage } from "@/helper/responseMessage";
+import { getResponseMessage } from "../../../helper/responseMessage";
 import prisma from "@/lib/prisma";
 import { NextResponse } from "next/server";
 
