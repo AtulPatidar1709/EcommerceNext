@@ -1,9 +1,11 @@
-import Signup from "./Signup/page";
+import VerifyEmail from "./VerifyEmail";
+
 
 export default function Home() {
   return (
     <>
-    <Signup />
+    <h1>Feed</h1>
+    <VerifyEmail />
     </>
   );
 }
